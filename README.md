@@ -2,6 +2,8 @@
 
 ![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
 
+Live Server: https://micogeeks-countdown-timer.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
